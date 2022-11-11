@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+div{
+    width: 30%;
+    height: 250px;
+}
+
+img{
+    width: 200px;
+}
+
+#verificar{
+    margin-left: 48%;
+}
