@@ -21,3 +21,11 @@ img{
 #verificar{
     margin-left: 48%;
 }
+
+input{
+    width: 150px;
+}
+
+input::placeholder {
+    font-style: italic;
+  }
